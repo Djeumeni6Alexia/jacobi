@@ -1,0 +1,14 @@
+Package: jacobi
+Type: Package
+Title: MATRICE DE JACOBI
+Version: 0.1.0
+Author: DJEUMENI Alexia [aut,cre],Autre Auteur [aut]
+Maintainer: DJEUMENI alexia <ingdjeumeni@gmail.com>
+Description: The jacobi method, due to the german mathematician Karl jacobi, is an iterative 
+            method for solving a matrix system of the form Ax=B. For this, we use a sequence
+            x^k which converges to a fixed point x, solution of the system of linear equations.
+            we want to build the algoritme for given x^0, the sequence x^(k+1)=F(x^k) with k belonging to N.
+License: GPT-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
